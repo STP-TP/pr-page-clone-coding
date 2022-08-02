@@ -1,0 +1,57 @@
+.layout-header{
+}
+.layout-header-tnb{
+    width: 100%;
+    background-color:#EFEFEF
+}
+.layout-header-mid{
+    width: 1200;
+    height: 90;
+    border: 1px solid
+}
+.layout-header-menu-bar{
+    width: 1200;
+    height: 46;
+    background: gray;
+}
+.layout-header-logo{
+    float: left;
+    width: 300;
+    height: 70;
+    padding-top: 10;
+}
+.layout-header-search-bar{
+    float: left;
+    width: 430;
+}
+.content{
+    height: 75%;
+}
+.custom-btn{
+    font-size: 10px;
+}
+.panel-footer{
+    height:10%;
+    color:gray;
+}
+.layout-header{
+    position: relative;
+    height: 100;
+    width: 80%;
+
+    background-color:#18C518
+}
+.look-size{
+    background-color:red;
+}
+.layout-contents{
+    width: 1000;
+    height: 500;
+    margin-left:50;
+}
+.board-thumbnail{
+    width: 202.5;
+    height: 203.13;
+    border: 1px solid;
+    background-color:gray
+}

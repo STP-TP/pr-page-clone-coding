@@ -1,0 +1,20 @@
+;[#IssueNumber] Commit Title
+[#] title
+
+; title과 본문 사이에 Blank Line을 두어 구분합니다.
+; template에 설정된 각 제목은 예시입니다.
+; 변경하여 자유롭게 사용해 주세요.
+; Markdown을 이용하여 작성합니다.
+## 작업 배경
+*
+*
+## 수정 내용
+*
+*
+## 참고
+*
+
+; 아래 키워드를 본문에 적어 키워드를 이용해 Issue를 종료하셔도 됩니다.
+; close, closes, closed
+; fix, fixes, fixed
+; resolve, resolves, resolved
