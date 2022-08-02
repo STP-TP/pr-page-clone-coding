@@ -1,0 +1,26 @@
+.layout-header{
+}
+.layout-header-tnb{
+    width: 100%;
+    background-color:#EFEFEF
+}
+.layout-header-mid{
+    width: 1200;
+    height: 90;
+    border: 1px solid
+}
+.layout-header-menu-bar{
+    width: 1200;
+    height: 46;
+    background: gray;
+}
+.layout-header-logo{
+    float: left;
+    width: 300;
+    height: 70;
+    padding-top: 10;
+}
+.layout-header-search-bar{
+    float: left;
+    width: 430;
+}
