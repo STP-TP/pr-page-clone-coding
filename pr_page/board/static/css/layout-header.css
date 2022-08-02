@@ -30,10 +30,6 @@
 .custom-btn{
     font-size: 10px;
 }
-.panel-footer{
-    height:10%;
-    color:gray;
-}
 .layout-header{
     position: relative;
     height: 100;
@@ -55,3 +51,4 @@
     border: 1px solid;
     background-color:gray
 }
+
