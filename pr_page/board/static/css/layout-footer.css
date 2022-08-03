@@ -1,13 +1,6 @@
 .layout-footer-notice{
-    float: left;
-    width: 480px;
     height: 48px;
 }
 .layout-footer-menu{
-    float: left;
-    width: 720px;
     height: 48px;
-}
-.test-menu{
-    float: left;
 }
