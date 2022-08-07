@@ -1,0 +1,12 @@
+.layout-contents{
+    width: 1200;
+}
+.layout-contents-board{
+    width: 870;
+}
+.board-thumbnail{
+    width: 202.5;
+    height: 203.13;
+    border: 1px solid;
+    background-color:gray
+}

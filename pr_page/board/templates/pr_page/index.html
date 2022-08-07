@@ -1,9 +1,7 @@
-<html lang="ko">
-    <body>
-        {% include "pr_page/header.html" %}
-        {% include "pr_page/board_thumbnail.html" %}
-        {% include "pr_page/footer.html" %}
-    </body>
-</html>
+{% extends 'pr_page/base.html' %}
 
-
+{% block content %}
+    {% include "pr_page/header.html" %}
+    {% include "pr_page/board_thumbnail.html" %}
+    {% include "pr_page/footer.html" %}
+{% endblock %}
