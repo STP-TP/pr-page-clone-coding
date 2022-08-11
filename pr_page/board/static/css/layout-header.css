@@ -37,18 +37,3 @@
 
     background-color:#18C518
 }
-.look-size{
-    background-color:red;
-}
-.layout-contents{
-    width: 1000;
-    height: 500;
-    margin-left:50;
-}
-.board-thumbnail{
-    width: 202.5;
-    height: 203.13;
-    border: 1px solid;
-    background-color:gray
-}
-

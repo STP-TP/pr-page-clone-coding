@@ -1,3 +1,12 @@
+.font-body {
+    font-size: 0.75em;
+}
+.font-board-title{
+    line-height: 30px;
+    font-size: 1.333em;
+    font-weight: bold;
+}
+
 .font-note-title{
     font-weight: bolder;
     font-size: 1.083em;
