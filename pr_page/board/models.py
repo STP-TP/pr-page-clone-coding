@@ -24,6 +24,7 @@ class Post(models.Model):
     post_id = models.AutoField(primary_key=True)
     post_userid = models.ForeignKey("Member", related_name="post", on_delete=models.CASCADE, db_column="post_userid")
     post_category = models.CharField(max_length=255)
+    post_subcategory = models.CharField(max_length=255)
     post_tag = models.CharField(max_length=255)
     post_title = models.CharField(max_length=255)
     post_content = models.CharField(max_length=255)
